@@ -185,7 +185,7 @@ textarea:focus {
 }
 
 #main-nav .navbar-header a {
-	background-color: #0066CC;
+	background-color: #003333;
 	color: #fff;
 }
 /*Toggle Menu*/
@@ -807,7 +807,7 @@ textarea:focus {
 .services-style-one .services-column .text {
 	font-size: 13px;
 	color: #5a5a5a;
-	max-width: 250px;	
+	max-width: 250px;
 }
 
 .services-style-one .content-column {
@@ -846,7 +846,7 @@ textarea:focus {
 }
 
 .inner-box button {
-	background-color: #01b1d7;
+	background-color: #003333;
 	width: 120px;
 	height: 35px;
 	color: #fff;
@@ -859,8 +859,8 @@ textarea:focus {
 
 /*Service Footer*/
 #service .service-footer {
-	background: #222222;
 	padding: 30px 0;
+	background-color: 282828;
 }
 
 #service .service-footer-left h3 {
@@ -885,7 +885,7 @@ textarea:focus {
 }
 
 #service .service-footer-right button {
-	background-color: #01b1d7;
+	background-color: #003333;
 	width: 180px;
 	height: 50px;
 	color: #fff;
@@ -1238,7 +1238,7 @@ textarea:focus {
 	word-spacing: 3px;
 	font-weight: 300;
 	margin-top: 40px;
-	color: #7e7e7e;
+	color: #ffffff;
 }
 
 #footer .footer-heading ul {
@@ -1284,9 +1284,9 @@ textarea:focus {
 
 /*Bottom Footer*/
 #bottom-footer {
-	background-color: #282828;
+	background-color: #003333;
 	padding: 20px 0;
-	color: #8e8e8e;
+	color: #FFF;
 }
 
 #bottom-footer .footer-right ul > li > a {
